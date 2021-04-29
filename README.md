@@ -42,6 +42,6 @@ void println(String text){
 ```
 
 ## Lista de Tarefas
-- [x] Atividade 1
+- [ ] Atividade 1
 - [ ] Atividade 2
 - [ ] Atividade 3
