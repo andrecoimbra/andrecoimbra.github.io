@@ -1,4 +1,5 @@
 # andrecoimbra.github.io
+![Foto de perfil](https://moodle.ifg.edu.br/user/profile.php?id=3415)
 Andre Coimbra's Portfolio
 
 ## Testes Markdown
