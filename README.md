@@ -6,10 +6,10 @@ _Itálico_
 __Negrito__
 ___Itálico e Negrito___
 
-*Itálico*
-**Negrito**
-***Itálico e Negrito***
-*Itálico e/ou **Negrito*** 
+1. *Itálico*
+2. **Negrito**
+3. ***Itálico e Negrito***
+4. *Itálico e/ou **Negrito*** 
 
 Emoji-Commit-Messages
 * https://github.com/cooperka/emoji-commit-messages
