@@ -21,5 +21,5 @@ ___Itálico e Negrito___
 ## Emoji-Commit-Messages
 * [Emoji Commit Messages - Cooperka](https://github.com/cooperka/emoji-commit-messages)
 * https://gist.github.com/parmentf/035de27d6ed1dce0b36a
-* https://www.webfx.com/tools/emoji-cheat-sheet/
+* [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
