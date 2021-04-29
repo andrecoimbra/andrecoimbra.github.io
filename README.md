@@ -23,3 +23,5 @@ ___Itálico e Negrito___
 * https://gist.github.com/parmentf/035de27d6ed1dce0b36a
 * [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
+## Imagem como link
+[![Foto de perfil local](img/f1.jpeg)](https://moodle.ifg.edu.br)
