@@ -8,6 +8,8 @@ __Negrito__
 ___Itálico e Negrito___
 
 1. *Itálico*
+    1. Teste
+    2. Teste 2
 2. **Negrito**
 3. ***Itálico e Negrito***
 4. *Itálico e/ou **Negrito*** 
