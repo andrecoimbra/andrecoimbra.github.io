@@ -24,4 +24,4 @@ ___Itálico e Negrito___
 * [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 ## Imagem como link
-[![Foto de perfil local](img/f1.jpeg)](https://moodle.ifg.edu.br)
+[![Foto de perfil local](img/f1.jpeg)](https://coimbra.app)
