@@ -27,6 +27,8 @@ ___Itálico e Negrito___
 [![Foto de perfil local](img/f1.jpeg)](https://coimbra.app)
 
 
+## Código 
+
 ```javascript
 function println(text){
     console.log(`${text}\n`)
@@ -39,3 +41,7 @@ void println(String text){
 }
 ```
 
+## Lista de Tarefas
+- [x] Atividade 1
+- [ ] Atividade 2
+- [ ] Atividade 3
