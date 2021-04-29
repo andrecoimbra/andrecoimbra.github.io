@@ -25,3 +25,17 @@ ___Itálico e Negrito___
 
 ## Imagem como link
 [![Foto de perfil local](img/f1.jpeg)](https://coimbra.app)
+
+
+```javascript
+function println(text){
+    console.log(`${text}\n`)
+}
+```
+
+```dart
+void println(String text){
+    print('$text\n');
+}
+```
+
